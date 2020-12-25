@@ -1,0 +1,7 @@
+.git
+.modignore
+.gitignore
+README.md
+zips
+*.zip
+mod_util.ps1
