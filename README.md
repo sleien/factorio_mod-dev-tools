@@ -14,7 +14,8 @@ A simple toolset to make it easier to develop mods for factorio
 1. ```-modIgnoreFile``` specifies where your .modignore files lies. It is good to have one of these to exclude stuff like .git and README.md from the zip if your mod uses source control.
 1. ```-basePath``` the path where you develop the mod
 1. ```-zipPath``` the path where the zip will be after running the script in build mode.
-
+  
+The default values only work if the script is copied into the mod folder itself.
 
 ## Development
 
